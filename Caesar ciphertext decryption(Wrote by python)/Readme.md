@@ -1,0 +1,1 @@
+It is the program for deceypt the caesar cipher text by finding out the most frequency of the character of the cipher text, if we found out that character, it have a highly chance is equal to the "e" in English, then we can know the key of the cipher text.
